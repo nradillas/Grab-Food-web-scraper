@@ -2,7 +2,7 @@ import json
 
 # Specify the path to your JSON file
 json_file_path = r'resultJson.json'
-output_file_path = r'C:\Users\Aditya\Desktop\Grab Web Scraper\combined_list.txt'
+output_file_path = r'combined_list.txt'
 
 try:
     # Read the JSON content
